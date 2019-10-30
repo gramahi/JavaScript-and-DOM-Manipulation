@@ -1,5 +1,5 @@
 
-                                                          ## Your Task
+                                                      ## Your Task
 
 
 ### Level 1: Automatic Table and Date Search
